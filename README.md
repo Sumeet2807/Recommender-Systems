@@ -1,2 +1,2 @@
-# MAL-Recommender
-Recommendation engine utilizing text reviews, synopsis and other metadata to recommend animes.
+# Recommendation Systems
+Recommendation engine utilizing text reviews, synopsis and other metadata to recommend movies, TV and animes.
